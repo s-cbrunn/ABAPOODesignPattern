@@ -6,7 +6,7 @@ notifications:
 before_script:
   - npm install -g abaplint
 script:
-  - abaplint "*.abap*
+  - abaplint -d
 branches:
   only: 
     - master
