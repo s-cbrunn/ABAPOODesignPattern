@@ -154,7 +154,7 @@ ENDCLASS.
 
 START-OF-SELECTION.
 
-  " create subject(s)
+  " create subject
   DATA(lo_weather_data) = NEW lcl_weather_data( ).
 
   " create observers
