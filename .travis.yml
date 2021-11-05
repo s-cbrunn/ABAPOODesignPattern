@@ -9,4 +9,4 @@ script:
   - abaplint
 branches:
   only: 
-    - main
+    - master
